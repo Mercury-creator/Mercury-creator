@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Mercury-creator
-- 👀 I’m interested in programming, hacking, cybersecurity, football, calesthenics, buisness, books, musics
-- 🌱 I’m currently learning prgramming language python, kali linux
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Miami, Florida
 
 <!---
